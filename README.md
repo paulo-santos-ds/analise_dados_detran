@@ -73,5 +73,3 @@ detran-data-analysis/
 ## Contribuições
 
 Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição antes de submeter um pull request.
-
-
